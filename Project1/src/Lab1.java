@@ -1,5 +1,5 @@
 ﻿import javax.swing.*;
- //
+ //czesc
     /**
      *<p>The <tt>Lab1</tt> class presents basics of Java programming.</p>
      * <p>Subject list:</p>
