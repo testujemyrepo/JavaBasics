@@ -1,5 +1,5 @@
-import javax.swing.*;
- 
+﻿import javax.swing.*;
+ //
     /**
      *<p>The <tt>Lab1</tt> class presents basics of Java programming.</p>
      * <p>Subject list:</p>
